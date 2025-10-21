@@ -2,7 +2,7 @@
 
 A basic Flutter project to learn basic layout and responsive UI.
 
-## Features:
+## Features
 
 - Column, ListTile, CircleAvatar, Card
 - Dark mode toggle
@@ -18,7 +18,13 @@ git clone https://github.com/TNNBao/personal_profile_app.git
 cd personal_profile_app
 ```
 
-### 2. Run the app
+### 2. Install packages
+
+```bash
+flutter pub get
+```
+
+### 3. Run the app
 
 ```bash
 flutter run
