@@ -2,6 +2,13 @@
 
 A basic Flutter project to learn basic layout and responsive UI.
 
+## Features:
+
+- Column, ListTile, CircleAvatar, Card
+- Dark mode toggle
+- Responsive layout with SingleChildScrollView and Wrap for skills
+- Personal info + link + email
+
 ## Install and run the app
 
 ### 1. Clone project
